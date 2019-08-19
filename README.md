@@ -26,3 +26,8 @@ python 3dcnn.py --batch 32 --epoch 50 --videos /home/ayush/Activity_Recognition/
 ```
 
 # Some Experimental Results
+
+
+# Credits
+* [Github Repository](https://github.com/eriklindernoren/Action-Recognition)
+
