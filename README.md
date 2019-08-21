@@ -29,20 +29,23 @@ python 3dcnn.py --batch 32 --epoch 50 --videos /home/ayush/Activity_Recognition/
 
 #### Experiment 1
 * Num Classes : 101
-* Epochs : 100
+* Epochs : 100  
+
 ![Loss Plot](https://github.com/rayush7/Action_Recognition_3D_CNN/blob/master/test3_3dcnnresult_101/model_loss.png)
 ![Accuracy Plot](https://github.com/rayush7/Action_Recognition_3D_CNN/blob/master/test3_3dcnnresult_101/model_accuracy.png)
 
 #### Experiment 2
 * Num Classes : 50
-* Epochs : 100
+* Epochs : 100  
+
 ![Loss Plot](https://github.com/rayush7/Action_Recognition_3D_CNN/blob/master/test2_3dcnnresult_50/model_loss.png)
 ![Accuracy Plot](https://github.com/rayush7/Action_Recognition_3D_CNN/blob/master/test2_3dcnnresult_50/model_accuracy.png)
 
 
 #### Experiment 3
 * Num Classes : 10
-* Num Epochs : 100
+* Num Epochs : 100  
+
 ![Loss Plot](https://github.com/rayush7/Action_Recognition_3D_CNN/blob/master/test1_3dcnnresult_10/model_loss.png)
 ![Accuracy Plot](https://github.com/rayush7/Action_Recognition_3D_CNN/blob/master/test1_3dcnnresult_10/model_accuracy.png)
 
