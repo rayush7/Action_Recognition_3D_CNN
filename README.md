@@ -19,6 +19,7 @@ First we need to move all the videos in a folder UCF101
 python move_videos.py
 ```
 ### Model Architecture
+![Model Architecture](https://github.com/rayush7/Action_Recognition_3D_CNN/blob/master/test3_3dcnnresult_101/model.png)  
 
 ### To run the code
 ```
